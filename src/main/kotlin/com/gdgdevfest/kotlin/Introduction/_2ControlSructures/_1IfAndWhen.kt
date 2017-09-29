@@ -7,7 +7,6 @@ enum class Color {
 fun updateWeather(celsiusDegrees: Double) {
     val description: String
     val color: Color
-
     when {
         celsiusDegrees < 0 -> {
             description = "cold"
