@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_intro.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_intro_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_intro_main.iml" group="kotlin_intro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_intro_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_intro_test.iml" group="kotlin_intro" />
+    </modules>
+  </component>
+</project>
